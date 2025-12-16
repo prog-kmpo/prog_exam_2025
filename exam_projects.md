@@ -10,4 +10,4 @@ https://github.com/DDDev0n/HomeWork
 
 <b>Мобильное приложение для покупки автобусных билетов</b><br>
 Тряпицын Александр и Грачев Артем 407ИС-22<br>
-[https://github.com/DDDev0n/HomeWork](https://disk.yandex.ru/d/N6J5k0rlDVDW_w)
+https://disk.yandex.ru/d/N6J5k0rlDVDW_w
