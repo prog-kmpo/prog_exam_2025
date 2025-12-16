@@ -28,7 +28,7 @@
 - **Кормен Т., Лейзерсон Ч., Ривест Р., Штайн К.**  
   *Алгоритмы. Построение и анализ*  
   *(Introduction to Algorithms — CLRS)*  
-  https://evil-teacher.on.fleek.co/books/tp/Cormen_Algorithms.pdf :contentReference[oaicite:3]{index=3}  
+  https://evil-teacher.on.fleek.co/books/tp/Cormen_Algorithms.pdf
 
 ---
 
