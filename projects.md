@@ -1,9 +1,11 @@
-<b>React интерфейс для системы управления начислениями</b> - Плясан Алина 404ИС-22<br>
+<b>React интерфейс для системы управления начислениями</b><br>
+Плясан Алина 404ИС-22<br>
 https://github.com/willalone/utility-billing<br>
 
-Система управления производственной практикой студентов
-Python + pyQt + ... - Шарунов Алексей 404ИС-22
-https://github.com/AlexeySharunov0/TypeData
+<b>Система управления производственной практикой студентов</b><br>
+Python + pyQt + ... - Шарунов Алексей 404ИС-22<br>
+https://github.com/AlexeySharunov0/TypeData<br>
 
-Хакатон - Дементьева Алина и Савельева Юлия 404ИС-22
-https://github.com/alishaemae/vibecode_jam
+<b>Хакатон</b><br>
+Дементьева Алина и Савельева Юлия 404ИС-22<b>
+https://github.com/alishaemae/vibecode_jam<b>
