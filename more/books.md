@@ -4,7 +4,7 @@
 - **Ахо А., Хопкрофт Дж., Ульман Дж.**  
   *Структуры данных и алгоритмы*  
   *(Data Structures and Algorithms)*  
-  📥 PDF: https://users.dcc.uchile.cl/~voyanede/cc4102/dS%26A%20Book%20By%20Alfred%20-Aho.pdf :contentReference[oaicite:0]{index=0}
+  https://users.dcc.uchile.cl/~voyanede/cc4102/dS%26A%20Book%20By%20Alfred%20-Aho.pdf 
 
 ---
 
@@ -12,8 +12,7 @@
 - **Вирт Н.**  
   *Алгоритмы + структуры данных = программы*  
   *(Algorithms + Data Structures = Programs)*  
-  📥 PDF (официальная образовательная версия): https://people.inf.ethz.ch/wirth/AD.pdf :contentReference[oaicite:1]{index=1}  
-  *(Это свободно доступная версия книги от автора / ETH Zurich)*
+  PDF (официальная образовательная версия): https://people.inf.ethz.ch/wirth/AD.pdf  
 
 ---
 
@@ -21,7 +20,7 @@
 - **Дасгупта С., Пападимитриу Х., Вазирани У.**  
   *Алгоритмы*  
   *(Algorithms)*  
-  https://psv4.userapi.com/s/v1/d/6hkyubK8JWjILeRf2znm4yH4adqwrM1TfYhXTDy9sR4qzulZtRPBhDYder2SulTbzabFfdDtOY3nk5e5jWI7-OK0PAtAVHiTY4dXtI_OyYaOO9TmLs0cKA/draft.pdf :contentReference[oaicite:2]{index=2}  
+  https://psv4.userapi.com/s/v1/d/6hkyubK8JWjILeRf2znm4yH4adqwrM1TfYhXTDy9sR4qzulZtRPBhDYder2SulTbzabFfdDtOY3nk5e5jWI7-OK0PAtAVHiTY4dXtI_OyYaOO9TmLs0cKA/draft.pdf 
 
 ---
 
@@ -46,4 +45,3 @@
 - **Левитин А.**  
   *Введение в разработку и анализ алгоритмов*  
   *(Introduction to the Design and Analysis of Algorithms)*  
-  ❗ Бесплатной официальной PDF-версии не найдено.
