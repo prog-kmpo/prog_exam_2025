@@ -1,4 +1,4 @@
-## 🧰 Используемое ПО и инструменты
+## Используемое ПО и инструменты
 
 ### IDE
 - **PyCharm** — https://drive.google.com/file/d/1K1PxGg5ym8nSaxjn0dvuCnerniiG8NcW/view?usp=sharing
