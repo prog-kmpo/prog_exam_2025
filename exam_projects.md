@@ -4,6 +4,10 @@
 Python + pyQt + ... - Шарунов Алексей 404ИС-22<br>
 https://github.com/AlexeySharunov0/TypeData<br>
 
+<b>React интерфейс для системы управления начислениями</b><br>
+Плясан Алина 404ИС-22<br>
+https://github.com/willalone/utility-billing<br>
+
 <b>Работа по ООП в Python</b><br>
 Билека Тимофей 404ИС-22<br>
 https://github.com/DDDev0n/HomeWork
