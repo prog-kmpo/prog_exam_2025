@@ -1,5 +1,9 @@
 ## Реализации решений для экзаменов ПМ.01 и ОП.14 ОООП
 
+<b>Ферма «Ново-Простоквашино»</b><br>
+Python - Тугай Светлана 404ИС-22<br>
+https://github.com/chevapchichx/OOP_variant_26/tree/main<br>
+
 <b>Система управления производственной практикой студентов</b><br>
 Python + pyQt + ... - Шарунов Алексей 404ИС-22<br>
 https://github.com/AlexeySharunov0/TypeData<br>
