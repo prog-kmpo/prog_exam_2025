@@ -20,6 +20,6 @@ https://github.com/DDDev0n/HomeWork
 Тряпицын Александр и Грачев Артем 407ИС-22<br>
 https://disk.yandex.ru/d/N6J5k0rlDVDW_w
 
-<b>Мобильное приложение для покупки автобусных билетов</b><br>
+<b>Работа по ООП в Python</b><br>
 Терсков Кирилл 402ИС-22<br>
 https://github.com/CrystalCharin1/Zadanie_OOP
