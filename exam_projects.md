@@ -1,5 +1,9 @@
 ## Реализации решений для экзаменов ПМ.01 и ОП.14 ОООП
 
+<b>Класс «Матрица»</b><br>
+C++ - Ротницкий Даниил 401ИС-22<br>
+https://github.com/Sernock/OOOP-Ticket-15-C-<br>
+
 <b>Система управления экзаменами</b><br>
 Go - Донских Павел 402ИС-22<br>
 https://github.com/pashokioronetkin/sample-task-2<br>
