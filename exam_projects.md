@@ -1,5 +1,9 @@
 ## Реализации решений для экзаменов ПМ.01 и ОП.14 ОООП
 
+<b>Система управления экзаменами</b><br>
+Go - Донских Павел 402ИС-22<br>
+https://github.com/pashokioronetkin/sample-task-2<br>
+
 <b>Проект Factory manager</b><br>
 Python - Жук Анна 410ИС-22<br>
 https://github.com/AnnyWhere/factory_manager/tree/main<br>
