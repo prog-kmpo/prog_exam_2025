@@ -22,12 +22,16 @@ https://github.com/willalone/utility-billing<br>
 
 <b>Работа по ООП в Python</b><br>
 Билека Тимофей 404ИС-22<br>
-https://github.com/DDDev0n/HomeWork
+https://github.com/DDDev0n/HomeWork<br>
 
 <b>Мобильное приложение для покупки автобусных билетов</b><br>
 Тряпицын Александр и Грачев Артем 407ИС-22<br>
-https://disk.yandex.ru/d/N6J5k0rlDVDW_w
+https://disk.yandex.ru/d/N6J5k0rlDVDW_w<br>
 
 <b>Работа по ООП в С++</b><br>
 Терсков Кирилл 402ИС-22<br>
-https://github.com/CrystalCharin1/Zadanie_OOP
+https://github.com/CrystalCharin1/Zadanie_OOP<br>
+
+<b>Экзамен ОП.14 ОООП 2024</b><br>
+Работы разного качества<br>
+https://github.com/temiiiyo/oop_2024_IS/tree/main<br>
