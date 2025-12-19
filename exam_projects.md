@@ -1,5 +1,9 @@
 ## Реализации решений для экзаменов ПМ.01 и ОП.14 ОООП
 
+<b>Проект Factory manager</b><br>
+Python - Жук Анна 410ИС-22<br>
+https://github.com/AnnyWhere/factory_manager/tree/main<br>
+
 <b>Ферма «Ново-Простоквашино»</b><br>
 Python - Тугай Светлана 404ИС-22<br>
 https://github.com/chevapchichx/OOP_variant_26/tree/main<br>
