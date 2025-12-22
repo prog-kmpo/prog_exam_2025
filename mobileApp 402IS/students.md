@@ -33,7 +33,7 @@ https://github.com/Vhrt11/Flashcard
 ## 17.Рыбакова Виктория
 
 ## 18.Сангаджи-Горяева Сельгира
-
+https://github.com/selgira/mobile_app
 ## 19.Соломатин Егор
 https://github.com/Catarus/To_do_list
 ## 20.Сулейманов Исмаил
