@@ -39,7 +39,7 @@
 ## 20.Сулейманов Исмаил
 
 ## 21.Терсков Кирилл
-
+https://github.com/CrystalCharin1/Tier-list-mobile-app
 ## 22.Трусов Михаил
 
 ## 23.Фазылов Арсен
