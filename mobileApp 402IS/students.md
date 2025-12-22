@@ -50,5 +50,5 @@ https://github.com/CrystalCharin1/Tier-list-mobile-app
 
 ## 26.Церен-Убушиева Ижилина
 
-## 27.Яковлен Илья
+## 27.Яковлев Илья
 
