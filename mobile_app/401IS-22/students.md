@@ -70,7 +70,7 @@
     🔗 https://github.com/Sernock/Mobile-app-Kotlin-
 
 24. **Селезнев Артём**  
-    🔗 (ссылка на ресурс)
+    🔗 https://github.com/artemisbro1/ScheduleApp1
 
 25. **Сергазиев Руслан**  
     🔗 https://github.com/rinsteryga/calculator
