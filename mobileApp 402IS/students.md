@@ -13,7 +13,7 @@
 ## 7.Лещенко Олег
 
 ## 8.Ли Павел
-
+https://github.com/Nuklerj/AppForExam
 ## 9.Лугин Никита
 https://github.com/Vhrt11/Flashcard
 ## 10.Остаева Ксения
