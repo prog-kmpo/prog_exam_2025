@@ -3,7 +3,7 @@
 ## 2.Гуров Иван
 
 ## 3.Донских Павел
-
+https://github.com/pashokioronetkin/BlackJackGame
 ## 4.Зацепурина Виктория
 
 ## 5.Кальметьев Эрик
