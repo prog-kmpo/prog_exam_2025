@@ -1,11 +1,11 @@
 ## 1.Волин Дмитрий
-
+https://github.com/Dmitry9004/mobile-app
 ## 2.Гуров Иван
 https://github.com/Qwirik/MobKval
 ## 3.Донских Павел
 https://github.com/pashokioronetkin/BlackJackGame
 ## 4.Зацепурина Виктория
-
+https://github.com/vika302/MobileApp
 ## 5.Кальметьев Эрик
 https://github.com/kweet14/pm11
 ## 6.Комаров Никита
@@ -25,9 +25,9 @@ https://github.com/AnastasiaPlus/MobilkaKvalik
 ## 13.Попов Вадим
 https://github.com/Sadmerik/MobKval
 ## 14.Романов Дмитрий
-
+https://disk.yandex.ru/d/-nC-eHcqT0CMJw
 ## 15.Романова Анастасия
-
+https://disk.yandex.ru/d/zLX87UbbS3HBvQ
 ## 16.Рудько Матвей
 
 ## 17.Рыбакова Виктория
