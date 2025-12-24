@@ -37,7 +37,7 @@ https://github.com/selgira/mobile_app
 ## 19.Соломатин Егор
 https://github.com/Catarus/To_do_list
 ## 20.Сулейманов Исмаил
-
+https://github.com/CrystalCharin1/IsmailApp
 ## 21.Терсков Кирилл
 https://github.com/CrystalCharin1/Tier-list-mobile-app
 ## 22.Трусов Михаил
