@@ -43,7 +43,7 @@ https://github.com/CrystalCharin1/Tier-list-mobile-app
 ## 22.Трусов Михаил
 
 ## 23.Фазылов Арсен
-
+https://github.com/Dageour/MobileExam
 ## 24.Халатян Артём
 https://github.com/Ggwyshsjr/LotoGame
 ## 25.Хошбекян Гурген
