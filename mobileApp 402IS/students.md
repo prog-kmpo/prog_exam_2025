@@ -17,7 +17,7 @@ https://github.com/Nuklerj/AppForExam
 ## 9.Лугин Никита
 https://github.com/Vhrt11/Flashcard
 ## 10.Остаева Ксения
-
+https://disk.yandex.ru/d/s5d75EirSTCxIA
 ## 11.Пиголева Анастасия
 https://github.com/sanzharu/Mobile_app
 ## 12.Плюснина Анастасия
@@ -31,7 +31,7 @@ https://disk.yandex.ru/d/zLX87UbbS3HBvQ
 ## 16.Рудько Матвей
 
 ## 17.Рыбакова Виктория
-
+https://github.com/vikaarybakova/prilozh
 ## 18.Сангаджи-Горяева Сельгира
 https://github.com/selgira/mobile_app
 ## 19.Соломатин Егор
