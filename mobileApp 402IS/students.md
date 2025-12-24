@@ -9,7 +9,7 @@ https://github.com/pashokioronetkin/BlackJackGame
 ## 5.Кальметьев Эрик
 
 ## 6.Комаров Никита
-
+https://github.com/CrystalCharin1/NikitaAppp
 ## 7.Лещенко Олег
 
 ## 8.Ли Павел
