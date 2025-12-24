@@ -51,4 +51,4 @@ https://github.com/Ggwyshsjr/LotoGame
 ## 26.Церен-Убушиева Ижилина
 
 ## 27.Яковлев Илья
-
+https://github.com/iluha481/my-notes
