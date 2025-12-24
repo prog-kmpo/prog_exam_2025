@@ -11,7 +11,7 @@ https://github.com/pashokioronetkin/BlackJackGame
 ## 6.Комаров Никита
 https://github.com/CrystalCharin1/NikitaAppp
 ## 7.Лещенко Олег
-
+https://github.com/tsssman/Notepad
 ## 8.Ли Павел
 https://github.com/Nuklerj/AppForExam
 ## 9.Лугин Никита
@@ -23,7 +23,7 @@ https://github.com/sanzharu/Mobile_app
 ## 12.Плюснина Анастасия
 https://github.com/AnastasiaPlus/MobilkaKvalik
 ## 13.Попов Вадим
-
+https://github.com/Sadmerik/MobKval
 ## 14.Романов Дмитрий
 
 ## 15.Романова Анастасия
@@ -45,7 +45,7 @@ https://github.com/CrystalCharin1/Tier-list-mobile-app
 ## 23.Фазылов Арсен
 
 ## 24.Халатян Артём
-
+https://github.com/Ggwyshsjr/LotoGame
 ## 25.Хошбекян Гурген
 
 ## 26.Церен-Убушиева Ижилина
