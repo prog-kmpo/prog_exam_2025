@@ -1,7 +1,7 @@
 ## 1.Волин Дмитрий
 
 ## 2.Гуров Иван
-
+https://github.com/Qwirik/MobKval
 ## 3.Донских Павел
 https://github.com/pashokioronetkin/BlackJackGame
 ## 4.Зацепурина Виктория
