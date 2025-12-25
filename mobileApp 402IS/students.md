@@ -41,13 +41,13 @@ https://github.com/CrystalCharin1/IsmailApp
 ## 21.Терсков Кирилл
 https://github.com/CrystalCharin1/Tier-list-mobile-app
 ## 22.Трусов Михаил
-
+https://github.com/TrueMisha/kvalik
 ## 23.Фазылов Арсен
 https://github.com/Dageour/MobileExam
 ## 24.Халатян Артём
 https://github.com/Ggwyshsjr/LotoGame
 ## 25.Хошбекян Гурген
-
+https://github.com/Gurgen123456/mobilka
 ## 26.Церен-Убушиева Ижилина
 
 ## 27.Яковлев Илья
